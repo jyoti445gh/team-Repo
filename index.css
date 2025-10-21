@@ -2,3 +2,9 @@
     margin: auto;
     padding: 4px;
 }
+
+.container {
+   height: 100vb;
+   width: 100vw;
+    background: #220404;
+}
